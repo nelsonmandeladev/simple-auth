@@ -1,0 +1,1 @@
+This is simple django rest framework authentication app including the frontend for your full-stack app
